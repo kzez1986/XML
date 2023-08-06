@@ -1,0 +1,7 @@
+C:\Users\kzez1986\Source\Repos\XML\LinqToXmlFirstLook\LinqToXmlFirstLook\bin\Debug\LinqToXmlFirstLook.exe.config
+C:\Users\kzez1986\Source\Repos\XML\LinqToXmlFirstLook\LinqToXmlFirstLook\bin\Debug\LinqToXmlFirstLook.exe
+C:\Users\kzez1986\Source\Repos\XML\LinqToXmlFirstLook\LinqToXmlFirstLook\bin\Debug\LinqToXmlFirstLook.pdb
+C:\Users\kzez1986\Source\Repos\XML\LinqToXmlFirstLook\LinqToXmlFirstLook\obj\Debug\LinqToXmlFirstLook.csprojAssemblyReference.cache
+C:\Users\kzez1986\Source\Repos\XML\LinqToXmlFirstLook\LinqToXmlFirstLook\obj\Debug\LinqToXmlFirstLook.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Source\Repos\XML\LinqToXmlFirstLook\LinqToXmlFirstLook\obj\Debug\LinqToXmlFirstLook.exe
+C:\Users\kzez1986\Source\Repos\XML\LinqToXmlFirstLook\LinqToXmlFirstLook\obj\Debug\LinqToXmlFirstLook.pdb
